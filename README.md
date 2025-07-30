@@ -15,7 +15,6 @@ Using past performance, qualifying stats, lap times, and pit stops, this project
 - Python, pandas, Numpy<br/>
 - scikit-learn, XGBoost<br/>
 - FastF1 (race data)<br/>
-- Streamlit (for dashboard)<br/>
 
 # How it works
 1. Gather historical data using FastF1<br/>
@@ -29,7 +28,7 @@ Using past performance, qualifying stats, lap times, and pit stops, this project
 # More
 This is Part 1 of a 3-part F1 AI/ML series:<br/>
 - Race outcome analysis *(you're here)*<br/>
-- Weather impact analysis *(cool)*<br/>
-- Fan sentiment analysis *(also cool)*<br/>
+- [Weather impact analysis](https://github.com/swathikalburgi/F1-weather-impact-analysis)<br/>
+- [Fan sentiment analysis](http://swathikalburgi/Fan-sentiment-analysis)<br/>
 
 
