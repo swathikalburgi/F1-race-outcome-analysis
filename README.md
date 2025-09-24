@@ -29,7 +29,7 @@ Using past performance, qualifying stats, lap times, and pit stops, this project
 This is Part 1 of a 3-part F1 AI/ML series:<br/>
 - Race outcome analysis *(you're here)*<br/>
 - [Weather impact analysis](https://github.com/swathikalburgi/F1-weather-impact-analysis)<br/>
-- [Fan sentiment analysis](http://swathikalburgi/Fan-sentiment-analysis)<br/>
+- [Fan sentiment analysis](https://github.com/swathikalburgi/fan-sentiment-analysis)<br/>
 - [Project suite](https://github.com/swathikalburgi/F1-AI-ML-project)<br/>
 
 
